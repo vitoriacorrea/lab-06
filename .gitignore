@@ -3,3 +3,6 @@
 *.iml
 lab-05/build/
 lab-05/.gradle/
+
+github_id.txt
+github_secret.txt
